@@ -1,0 +1,8 @@
+Simple_Config demonstrates how a simple configuration system might be implemented.
+It supports setting default values, multiple configuration files through instantiation
+and overwriting previous configuration setting by loading different configuration
+files.
+
+This program is distributed in the hope that it will be useful, but WITHOUT 
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.
